@@ -1,6 +1,6 @@
 1. Description :
        
-  This project is a React application that implements navigation using `react-router-dom`, based on the design and layout of the [GUVI Blog](https://www.guvi.in/blog). The application features a navigation menu for different courses like Full Stack Development, Data Science, Cyber Security, and Career. Each menu item routes to a static page with content relevant to the selected course.
+    This project is a React application that implements navigation using `react-router-dom`, based on the design and layout of the [GUVI Blog](https://www.guvi.in/blog). The application features a navigation menu for different courses like Full Stack Development, Data Science, Cyber Security, and Career. Each menu item routes to a static page with content relevant to the selected course.
 
 2. Requirements :
 
@@ -20,7 +20,7 @@
 
 7. License :
 
-     This project is licensed under the MIT License.
+    This project is licensed under the MIT License.
 
 8. Acknowledgments : 
 
